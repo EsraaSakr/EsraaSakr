@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @EsraaSakr
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning ml
-- 📫 How to reach me by my email esraasakr4444@gmail.com
-
-<!---
-EsraaSakr/EsraaSakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I graduated from Al-Azhar Engineering,specializing in communications and electronics. I am currently studying in the field of data science. I aim to specialize in NLP for Arabic language computing (I mean presenting projects that serve the language, whether learning it or translating from it to it or otherwise) 💚
