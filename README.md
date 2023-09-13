@@ -1,1 +1,1 @@
-I graduated from Al-Azhar Engineering,specializing in communications and electronics. I am currently studying in the field of data science. I aim to specialize in NLP for Arabic language computing (I mean presenting projects that serve the language, whether learning it or translating from it to it or otherwise) 💚
+
